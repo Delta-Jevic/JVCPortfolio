@@ -14,7 +14,7 @@ body{
 #header{
     width: 100%;
     height: 100vh;
-    background-image: url(photos/back-f.jpg);
+    background-image: url(iamges/back-f.jpg);
     background-size: cover;
     background-position: center;
 }
@@ -314,7 +314,7 @@ nav .fas{
 
 @media only screen and (max-width: 600px) {
     #header {
-        background-image: url(photos/image0.jpeg);
+        background-image: url(images/image0.jpeg);
     }
     .header-text {
         margin-top: 100%;
